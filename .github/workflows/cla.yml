@@ -22,3 +22,4 @@ jobs:
           path-to-document: 'https://github.com/Cuperino/Signatures/blob/master/CLA.md'
           branch: 'main'
           allowlist: Cuperino,bot*
+ 
